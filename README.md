@@ -1,3 +1,21 @@
+# 💫 GHOSTs-OCTOPUS Repository <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> 
+<p align='center'>
+  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100px"'>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Vikas+Kole;Freelancer+Web+Developer;Software+Engineer;Frontend+Developer;UI|UX+Designer;%GHOSTs-OCTOPUS">
+</p>
+<br>
+
+
+
+
+
+Welcome to the **GHOSTs-OCTOPUS** repository! 🚀
+
+## 📂 Repository Contents
+
+- **Code**: All source code from my work.
+- **Files**: Any files or datasets used in my tutorials.
+- **Resources**: Additional resources, links, and references.
 # 💫 About Me:
 - 👋 Hi, I’m @GHOSTs-OCTOPUS #KOLE_VIKAS<br>
 - 👀 I’m interested in #Codeing #Web_delopement #FrontEnd_Developement #Ethical_Hacking #Networking_&_Network_Security #Gameing...<br>
