@@ -55,10 +55,12 @@ Welcome to the **GHOSTs-OCTOPUS** repository! 🚀
     ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 
 - ## Frameworks
+    ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+    ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
     ![Node.js Badge](https://img.shields.io/badge/Node.js*-393?logo=nodedotjs&logoColor=fff&style=flat) 
     ![React Badge](https://img.shields.io/badge/React*-%2320232a.svg?&logo=react&logoColor=%2361DAFB&style=flat) 
     ![Flask Badge](https://img.shields.io/badge/Flask-%23000.svg?&logo=flask&logoColor=white&style=flat)
-  
+
 - ## Databases     
     ![MySQL Badge](https://img.shields.io/badge/MySQL-%2300f.svg?&logo=mysql&logoColor=white&style=flat)
     ![MongoDB Badge](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&logo=mongodb&logoColor=white&style=flat) 
