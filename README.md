@@ -19,7 +19,7 @@ Welcome to the **GHOSTs-OCTOPUS** repository! 🚀
 - 👀 I’m interested in #Codeing #Web_delopement #FrontEnd_Developement #Ethical_Hacking #Networking_&_Network_Security #Gameing...<br>
 - 🌱 I’m currently working as freelancer web developer<br>
 - 💞️ I’m looking to collaborate on:<br> Hackathon Online & Offline(Hackathon.com), Software Project, Git & Git Hub, Bug Bounty<br>
-- 👀 See my [Personal Portfolio](https://www.billpwchan.com) to get more info
+- 👀 See my [Personal Portfolio](https://vikaskoledev.vercel.app/) to get more info
 - 👨🏻‍💻 &nbsp; Freelancer
 - 📫 How to reach me:<br>EmailID: vikaskole786@gmail.com<br>LinkedinID: https://www.linkedin.com/in/vikas-kole-vk786<br>InstagramID: https://www.instagram.com/kolevikki786<br>CodeforceID: https://codeforces.com/profile/GHOSTs-OCTOPUS<br>LeetcodeID: https://leetcode.com/u/20UGCS19910
 
@@ -127,4 +127,4 @@ Welcome to the **GHOSTs-OCTOPUS** repository! 🚀
 
 
 Credit: [kole vikas](https://github.com/GHOSTs-OCTOPUS)<BR>
-Last Edited on: 10/03/2025
+Last Edited on: 22/08/2025
