@@ -17,7 +17,7 @@
 ---
 # **Png image for readme file compount** 
 
-  < align="left">
+  <p align="left">
   🔹 start icon-  🚀<br>🔹 Phone Icon - 📱<br>🔹 Pin Icon - 📌<br>🔹 Tool Icon - 🛠️<br>🔹 Box Icon - 📦<br>
   🔹 Brush Icon - 🖌️<br>🔹 Development Icon - 🏗️<br>🔹 status Icon - 📊<br>🔹 connect Icon - 🌐<br>🔹 Traget Icon - 🎯<br>🔹 File Icon - 📂<br>🔹 working Icon - 👨🏻‍💻<br>🔹 mul.copy Icon - 📚<br> 
 
